@@ -17,7 +17,6 @@ p {
 
 /* header */
 .header {
-	background-color: #87D37C;
 	background-image: url("../images/deathstar.jpg");
 	padding-top: 1.5em;
 	padding-bottom: 1.5em;
@@ -42,13 +41,15 @@ p {
 	letter-spacing: 1px;
 	border-radius: 8px;
 	border: 1px solid gray;
-	background-color: transparent;
+	background-color: #F2F1EF;
 	font-size: 18px;
 	transition: all 0.75s;
 }
 
+
+
 .header button:hover {
-	background-color: #F2F1EF;
+	background-color: #F7CA18;
 	transform: scale(1.05);
 }
 
