@@ -17,9 +17,11 @@ p {
 
 /* header */
 .header {
-	background-image: url("http://p1.pichost.me/i/29/1526048.jpg");
+	background-image: url("http://wallpoper.com/images/00/25/66/84/star-wars_00256684.jpg");
+	background-size: 100%;
 	padding-top: 1.5em;
 	padding-bottom: 1.5em;
+	color: #F7CA18;
 }
 
 /* Helpers */
@@ -40,8 +42,8 @@ p {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	border-radius: 8px;
-	border: 1px solid gray;
-	background-color: #F2F1EF;
+	border: 2px solid #F7CA18;
+	background-color: black;
 	font-size: 18px;
 	transition: all 0.75s;
 }
@@ -49,7 +51,7 @@ p {
 
 
 .header button:hover {
-	background-color: #F7CA18;
+	background-color: black;
 	transform: scale(1.05);
 }
 
